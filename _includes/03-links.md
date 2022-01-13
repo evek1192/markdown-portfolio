@@ -1,1 +1,1 @@
-[my twitter] (www.twitter.com/kearnivale)
+[my twitter](https://twitter.com/kearnivale)
